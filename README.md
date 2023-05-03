@@ -1,4 +1,4 @@
-# [Your Name]
+# [Ganesh]
 
 ![Profile Picture](profile-picture.jpg)
 
@@ -8,21 +8,21 @@
 
 ## Skills
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
+- [python]
+- [MS Office]
+- [.]
 - ...
 
 ## Projects
 
-- [Project 1]
-- [Project 2]
-- [Project 3]
+- [Green house monitoring effect]
+- [IMPLEMENTATION OF SMART MIRROR USING HUMAN MACHINE INTERACTION FOR SENSING HUJMAN BODY TEMPERATURE]
+- [SMART ANTENNA]
 - ...
 
 ## Contact Me
 
-- Email: [Your email address]
+- Email: [ganeshm.7070@gmail.com]
 - LinkedIn: [Your LinkedIn profile URL]
 - Twitter: [Your Twitter handle]
 - ...
